@@ -1,0 +1,110 @@
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.anaSayfa.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.emanetEkle.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.emanetGuncelle.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.emanetListele.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.emanetSil.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.giris.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.kitapEkle.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.kitapGuncelle.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.kitapListe.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.kitapSil.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.uyeEkle.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.uyeGuncelle.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.uyeListele.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.uyeSil.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeAnaSayfa.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeKitap.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeEmanet.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\zxing.dll
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\zxing.presentation.dll
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\zxing.xml
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\zxing.presentation.xml
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CopyComplete
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapQr.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\AForge.dll
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\AForge.Video.dll
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\AForge.xml
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\AForge.Video.xml
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.ikitarih.resources
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\SmtpServer.dll
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\System.Memory.dll
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\SmtpServer.xml
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\System.Memory.xml
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yesil\OneDrive\Desktop\Proje Ödevi\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.sifreUnuttum.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\AForge.dll
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\AForge.Video.dll
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\SmtpServer.dll
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\System.Memory.dll
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\zxing.dll
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\zxing.presentation.dll
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\AForge.xml
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\AForge.Video.xml
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\SmtpServer.xml
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\System.Memory.xml
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\zxing.xml
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\bin\Debug\zxing.presentation.xml
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.anaSayfa.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.emanetEkle.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.emanetGuncelle.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.emanetListele.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.emanetSil.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.giris.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.ikitarih.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.kitapEkle.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.kitapGuncelle.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.kitapListe.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapQr.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.kitapSil.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.sifreUnuttum.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeAnaSayfa.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.uyeEkle.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeEmanet.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.uyeGuncelle.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeKitap.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.uyeListele.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.uyeSil.resources
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CopyComplete
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\Yesil\OneDrive\Desktop\Otomasyon\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
