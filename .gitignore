@@ -1,0 +1,26 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Visual Studio user-specific files and caches
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.userprefs
+
+# Build intermediates and diagnostics
+[Oo]bj/
+TestResults/
+*.pdb
+!**/[Pp]ackages/**/*.pdb
+*.cache
+*.tlog
+*.log
+*.tmp
+*.temp
+
+# Bin/ and packages/ remain tracked pending restore/build verification.
